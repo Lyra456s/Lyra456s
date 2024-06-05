@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Lyra456s
+- 👋 Hi, I’m @Lyra456s or Rafael Lyra
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: you can find me by the email: rafalyradp@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: id like to travel to eua 
 
 <!---
